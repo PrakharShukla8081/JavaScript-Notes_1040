@@ -5,7 +5,7 @@
 
 // | Feature       | var             | let       | const     |
 // | ------------- | --------------- | --------- | --------- |
-// | Scope         | Function        | Block     | Block     |
+// | Scope         | Function scope  | Block     | Block     |
 // | Hoisting      | Yes (undefined) | Yes (TDZ) | Yes (TDZ) |
 // | Re-declare    | ✅ Yes           | ❌ No      | ❌ No      |
 // | Re-assign     | ✅ Yes           | ✅ Yes     | ❌ No      |

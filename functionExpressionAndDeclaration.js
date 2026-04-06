@@ -8,11 +8,55 @@
 // | Name               | Required             | Optional (anonymous)        |
 // | Use case           | General functions    | Callbacks, dynamic usage    |
 
+
 //function decleration
-function greet() {
-  console.log("Hello");
-}
+// function greet() {
+//   console.log("Hello");
+// }
+// 
 //function expression
-const greet = function () {
-  console.log("Hello");
-};          
+
+
+
+// const greet = function () {
+//   console.log("Hello");};
+
+
+
+  function greet(){
+    console.log("Prakhar This Side ");
+  }
+
+
+greet()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

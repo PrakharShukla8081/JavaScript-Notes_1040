@@ -2,7 +2,6 @@
 // 👉 Definition:
 
 // A Higher-Order Function (HOF) is a function that:
-
 // Takes another function as an argument, OR
 // Returns a function
 
@@ -51,7 +50,7 @@ console.log(double(5)); // 10
 
 // | Feature    | Higher-Order Function | Callback Function    |
 // | ---------- | --------------------- | -------------------- |
-// | Role       | Accepts/returns fn    | Passed as argument   |
+// | Role       | Accepts/returns fn    | Passed as argument   |    
 // | Who is it? | Main function         | Helper function      |
 // | Example    | `map`, `filter`       | function inside them |
 0
