@@ -23,7 +23,7 @@ const finalRes= async () => {
   }
 }
 
-// This i9s
+// This is final
 finalRes()
 
 
